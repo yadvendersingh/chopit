@@ -92,7 +92,7 @@ Ensure you have the following installed:
    PORT=8000
    ```
 
-4. Run the backend in one terminal:
+4. Run the backend in one terminal (host and port should be same as environment variables):
    ```
    uvicorn backend.main:app --host 0.0.0.0 --port 8000
    ```
