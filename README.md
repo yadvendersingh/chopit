@@ -125,6 +125,8 @@ This will start both the **FastAPI backend** and **Streamlit frontend** using Su
 2. Check the "Use custom short URL" box to specify a custom short URL.
 3. Click the "Shorten URL" button.
 4. Copy the generated short URL to share.
+
 **Retrieve Short URL Information**
-5. To retrieve Original URL, click the "Retrieve URL" button.
-6. To check click statistics, enter the short url URL and click the "Click Count" button.
+
+1. To retrieve Original URL, click the "Retrieve URL" button.
+2. To check click statistics, enter the short url URL and click the "Click Count" button.
